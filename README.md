@@ -44,14 +44,14 @@ Sarkar, S., Min, K., Ikram, W., Tatton, R. W., Riaz, I. B., Silva, A. C., ... & 
 ## BibTex
 
 @article{sarkar2023performing,<br/>
-  title={Performing automatic identification and staging of urothelial carcinoma in bladder cancer patients using a hybrid deep-machine learning approach},<br/>
-  author={Sarkar, Suryadipto and Min, Kong and Ikram, Waleed and Tatton, Ryan W and Riaz, Irbaz B and Silva, Alvin C and Bryce, Alan H and Moore, Cassandra and Ho, Thai H and Sonpavde, Guru and others},<br/>
-  journal={Cancers},<br/>
-  volume={15},<br/>
-  number={6},<br/>
-  pages={1673},<br/>
-  year={2023},<br/>
-  publisher={MDPI}<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;title={Performing automatic identification and staging of urothelial carcinoma in bladder cancer patients using a hybrid deep-machine learning approach},<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;author={Sarkar, Suryadipto and Min, Kong and Ikram, Waleed and Tatton, Ryan W and Riaz, Irbaz B and Silva, Alvin C and Bryce, Alan H and Moore, Cassandra and Ho, Thai H and Sonpavde, Guru and others},<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;journal={Cancers},<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;volume={15},<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;number={6},<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pages={1673},<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;year={2023},<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;publisher={MDPI}<br/>
 }
 
 <!------------------>
