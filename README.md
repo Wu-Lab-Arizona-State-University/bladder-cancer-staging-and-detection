@@ -22,11 +22,11 @@ Accurate clinical staging of bladder cancer aids in optimizing the process of cl
 
 - Stage annotation technique: Performed manually by radiologists
 
-For more details, interested readers are directed to the ***Dataset* section of the [paper]((https://www.mdpi.com/2072-6694/15/6/1673).
+For more details, interested readers are directed to the **Dataset** section of the [paper](https://www.mdpi.com/2072-6694/15/6/1673).
 
 ## Availability
 
-Data will be made available under reasonable request to the corresponding author, [Suryadipto Sarkar]((suryadipto.sarkar@fau.de) (more contact details below).
+Data will be made available under reasonable request to the corresponding author, [Suryadipto Sarkar](suryadipto.sarkar@fau.de) (more contact details below).
 
 
 <!------------------>
