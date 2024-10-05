@@ -58,7 +58,7 @@ Sarkar, S., Min, K., Ikram, W., Tatton, R. W., Riaz, I. B., Silva, A. C., ... & 
 
 # Contact
 
-\u1F4E7
+&#x2709;&nbsp;&nbsp;suryadipto.sarkar(_at-]fau.de
 
 <!------------------>
 
