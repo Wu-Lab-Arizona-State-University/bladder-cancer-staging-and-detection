@@ -1,6 +1,42 @@
 # About
 
-This is a repository that contains information on how to reproduce results corresponding to the *cutaneous T cell lymphoma (CTCL)* case study reported in [Spatial cell graph analysis reveals skin tissue organization characteristic for cutaneous T cell lymphoma](https://paper-doi-when-available).
+This is a repository that contains information about the *bladder cancer* case study reported in [Performing Automatic Identification and Staging of Urothelial Carcinoma in Bladder Cancer Patients Using a Hybrid Deep-Machine Learning Approach](https://www.mdpi.com/2072-6694/15/6/1673).
+
+<!------------------>
+
+# Abstract
+
+Accurate clinical staging of bladder cancer aids in optimizing the process of clinical decision-making, thereby tailoring the effective treatment and management of patients. While several radiomics approaches have been developed to facilitate the process of clinical diagnosis and staging of bladder cancer using grayscale computed tomography (CT) scans, the performances of these models have been low, with little validation and no clear consensus on specific imaging signatures. We propose a hybrid framework comprising pre-trained deep neural networks for feature extraction, in combination with statistical machine learning techniques for classification, which is capable of performing the following classification tasks: (1) bladder cancer tissue vs. normal tissue, (2) muscle-invasive bladder cancer (MIBC) vs. non-muscle-invasive bladder cancer (NMIBC), and (3) post-treatment changes (PTC) vs. MIBC.
+
+<!------------------>
+
+# Data
+
+## Description
+
+- As described in our [paper]((https://www.mdpi.com/2072-6694/15/6/1673), the data used for our analyses comprised a total of 100 CT scans of the bladder, each from a patient with bladder cancer.
+
+- Disease: urothelial carcinoma of the bladder
+
+- Stages: Ta, Tis, T0, T1, T2, T3, T4
+
+- Stage annotation technique: Performed manually by radiologists
+
+For more details, interested readers are directed to the ***Dataset* section of the [paper]((https://www.mdpi.com/2072-6694/15/6/1673).
+
+## Availability
+
+Data will be made available under reasonable request to the corresponding author, [Suryadipto Sarkar]((suryadipto.sarkar@fau.de) (more contact details below).
+
+
+<!------------------>
+
+
+# Citing the work
+
+Please cite our work as follows:
+- Sarkar, S., Möller, A., Hartebrodt, A., Erdmann, M., Ostalecki, C., Baur, A. & Blumenthal, D. B. Spatial cell graph analysis reveals skin tissue organization characteristic for cutaneous T cell lymphoma. bioRxiv 2024.05.17.594629 (2024). doi:10.1101/2024.05.17.594629
+
 
 <!------------------>
 
