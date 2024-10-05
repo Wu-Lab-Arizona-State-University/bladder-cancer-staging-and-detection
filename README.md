@@ -58,15 +58,13 @@ Sarkar, S., Min, K., Ikram, W., Tatton, R. W., Riaz, I. B., Silva, A. C., ... & 
 
 # Impressum
 
-Suryadipto Sarkar (Surya), MS
-
-PhD Candidate
-Biomedical Network Science Lab
-Department of Artificial Intelligence in Biomedical Engineering (AIBE)
-Friedrich-Alexander University Erlangen-Nürnberg (FAU)
-Werner von Siemens Strasse
-91052 Erlangen
-
-MS in CEN from Arizona State University, AZ, USA.
+Suryadipto Sarkar ("Surya"), MS<br/><br/>
+PhD Candidate<br/>
+Biomedical Network Science Lab<br/>
+Department of Artificial Intelligence in Biomedical Engineering (AIBE)<br/>
+Friedrich-Alexander University Erlangen-Nürnberg (FAU)<br/>
+Werner von Siemens Strasse<br/>
+91052 Erlangen<br/><br/>
+MS in CEN from Arizona State University, AZ, USA.<br/>
 B.Tech in ECE from MIT Manipal, KA, India.
 
